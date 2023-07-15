@@ -1,5 +1,5 @@
-# just-relax
+# just-code
 
-hello, I am here to parctice code.
+hello, I am looking for some beautiful project.
 I also wanna to make some friends here.
-I hope to join in some python projects.  
+I hope to join in some projects.  
